@@ -1,0 +1,17 @@
+I'm following NeetCode's roadmap, which proceeds field by field.
+
+1 - Arrays & Hashing
+
+    ✦ - LeetCode 217 [Easy]    -   Contains Duplicate              -> In 3m 
+
+    ✦ - LeetCode 242 [Easy]    -   Valid Anagram                   -> In 3m 
+
+    ✦ - LeetCode 1   [Easy]    -   Two Sum                         -> In 3m 
+
+    ✦ - LeetCode 49  [Medium]  -   Group Anagrams                  -> In 4m 
+
+    ✦ - LeetCode 347 [Medium]  -   Top K Frequent Elements         -> In 8m 30s (Sorting part took a bit of time)
+
+    ✧ - LeetCode 271 [Medium]  -   Encode and Decode Strings       -> Requires Premium :(
+
+    ✦ - LeetCode 238 [Medium]  -   Product of Array Except Self    -> In 15m
