@@ -14,4 +14,8 @@ I'm following NeetCode's roadmap, which proceeds field by field.
 
     ✧ - LeetCode 271 [Medium]  -   Encode and Decode Strings       -> Requires Premium :(
 
-    ✦ - LeetCode 238 [Medium]  -   Product of Array Except Self    -> In 15m
+    ✦ - LeetCode 238 [Medium]  -   Product of Array Except Self    -> In 15m (Seen the approach nearly a week before.)
+
+    ✦ - LeetCode 36  [Medium]  -   Valid Sudoku                    -> In 23m
+
+    ✧ - LeetCode 128 [Medium]  -   Longest Consecutive Sequence    -> X
