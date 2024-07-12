@@ -1,7 +1,6 @@
 #LeetCode 49 - Group Anagrams
 
 
-#Attempt 1
 def group_anagrams(strs):
 
     grouped_anagrams = {}

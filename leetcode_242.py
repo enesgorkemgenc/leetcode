@@ -1,7 +1,6 @@
 #LeetCode 242 - Valid Anagram
 
 
-#Attempt 1
 def valid_anagram(s, t):
 
     if len(s) != len(t):

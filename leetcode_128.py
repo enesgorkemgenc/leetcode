@@ -1,7 +1,6 @@
 #LeetCode 128 - Longest Consecutive Sequence
 
 
-#Attempt 1 FAILED (Time limit exceeded)
 def longest_consecutive_attempt_1(nums):
     
     nums_map = set()
@@ -23,7 +22,6 @@ def longest_consecutive_attempt_1(nums):
     return longest_consecutive_result
 
 
-#Attempt 2: FAILED I'm going to try checking the set while adding the items (it didn't work)
 def longest_consecutive_attempt_2(nums):
     
     nums_map = set()
@@ -51,7 +49,6 @@ def longest_consecutive_attempt_2(nums):
     return longest_consecutive_result
 
 
-#Attempt 3: FAILED (Time limit exceeded again)
 def longest_consecutive_attempt_3(nums):
 
     numbers_map = set()

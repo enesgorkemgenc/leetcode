@@ -1,7 +1,6 @@
 #Leetcode 167 - Two Sum II - Input Array Is Sorted
 
 
-#Solved it before..
 def two_sum(numbers, target):
 
     l,r = 0, len(numbers) - 1

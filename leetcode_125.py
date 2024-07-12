@@ -1,7 +1,6 @@
 #LeetCode 125 - Valid Palindrome
 
 
-#Attempt 1
 def is_palindrome(s):
     
     p1, p2 = 0, len(s) -1

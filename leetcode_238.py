@@ -1,9 +1,6 @@
 #LeetCode 217 - Product of Array Except Self
 
 
-#Note: I watched the solution of this a few days ago. 
-
-#Attempt 1
 def product_except_self(nums):
 
     products_from_left = [1] * len(nums)

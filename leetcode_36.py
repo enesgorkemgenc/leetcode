@@ -1,7 +1,6 @@
 #LeetCode 36 - Valid Sudoku
 
 
-#Attempt 1
 def is_valid_sudoku(board):
     
     layers = {}

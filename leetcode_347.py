@@ -1,7 +1,6 @@
 #LeetCode 242 - Top K Frequent Elements
 
 
-#Attempt 1
 def top_k_frequent(nums, k):
 
     frequency_map = {}

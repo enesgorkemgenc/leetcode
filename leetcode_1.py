@@ -1,7 +1,6 @@
 #LeetCode 1 - Two Sum
 
 
-#Attempt 1
 def two_sum(nums, target):
 
     numbers_map = {}

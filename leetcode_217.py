@@ -1,7 +1,6 @@
 #LeetCode 217 - Contains Duplicate
 
 
-#Attempt 1
 def contains_duplicate(nums):
 
     numbers_set = set()
