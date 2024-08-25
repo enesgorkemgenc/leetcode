@@ -63,20 +63,22 @@ def sort_colors_attempt_2(nums):
     return nums
 
 
+#Successful
 def sort_colors(nums):
 
-    i, l, r = 0, 0, len(nums) - 1
+    r, b = 0, len(nums) - 1
+    i = 0
 
-    while i <= r:
+    while i < b + 1:
+        num = nums[i]
 
-        if nums[i] == 0:
-            nums[l], nums[i] = nums[i], nums[l]
-            l += 1
-        elif nums[i] == 2:
-            nums[i], nums[r] = nums[r], nums[i]
-            r -= 1
+        if num == 0:
+            nums[r], nums[i] = nums[i], nums[r]
+            r += 1
+        elif num == 2:
+            nums[b], nums[i] = nums[i], nums[b]
+            b -= 1
             i -= 1
-        
-        i+= 1
+        i += 1
 
     return nums

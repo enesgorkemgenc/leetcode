@@ -3,21 +3,19 @@
 
 def remove_duplicates(nums):
 
-    l = 0
-    counter = 1
+    l, r = 0, 0
 
-    for i in range(1, len(nums)):
-
-        if nums[i] == nums[l]:
-            counter += 1
-            if counter < 3:
-                l += 1
+    while r < len(nums):
         
-        else:
-            
-            
+        count = 1
+        while r + 1 < len(nums) and nums[r] == nums[r + 1]:
+            r += 1 
+            count += 1
+        
+        for _ in range(min(2, count)):
+            nums[l] = nums[r]
+            l += 1
 
+        r += 1
 
-    return nums
-
-print(remove_duplicates([0,0,1,1,1,1,2,3,3]))
+    return l

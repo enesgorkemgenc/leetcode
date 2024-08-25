@@ -24,3 +24,28 @@ def is_palindrome(s):
         p2 -= 1
         
     return True
+
+
+def is_palindrome_2(s):
+
+    l, r = 0, len(s) - 1 
+
+    while l < r:
+
+        while not s[l].isalnum():
+            l += 1
+            if l > len(s) -1:
+                return True
+            
+        while not s[r].isalnum():
+            r -= 1
+            if r < 0:
+                return True
+            
+        if s[l].lower() != s[r].lower():
+            return False
+        
+        l += 1
+        r -= 1
+
+    return True

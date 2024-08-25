@@ -13,11 +13,11 @@ I'm following NeetCode's roadmap, which proceeds field by field.
 
     ✦ - LeetCode 347 [Medium]  -   Top K Frequent Elements
 
-    ✧ - LeetCode 271 [Medium]  -   Encode and Decode Strings
-
     ✦ - LeetCode 238 [Medium]  -   Product of Array Except Self
 
     ✦ - LeetCode 36  [Medium]  -   Valid Sudoku
+
+    ✧ - LeetCode 271 [Medium]  -   Encode and Decode Strings
 
     ✧ - LeetCode 128 [Medium]  -   Longest Consecutive Sequence
 
@@ -34,9 +34,25 @@ I'm following NeetCode's roadmap, which proceeds field by field.
 
     ✦ - LeetCode 167 [Medium]  -   Two Sum II Input Array Is Sorted
 
-    ✧ - LeetCode 15  [Medium]  -   3Sum
-
     ✦ - LeetCode 11  [Medium]  -   Container With Most Water
+
+    ✦ - LeetCode 15  [Medium]  -   3Sum
 
     ✧ - LeetCode 42  [Hard]    -   Trapping Rain Water
 
+
+3 - Stacks
+
+    ✦ - LeetCode 20  [Easy]    -   Valid Parentheses
+    
+    ✧ - LeetCode 155 [Medium]  -   Min Stack
+
+    ✧ - LeetCode 150 [Medium]  -   Evaluate Reverse Polish Notation
+    
+    ✧ - LeetCode 22  [Medium]  -   Generate Parentheses
+    
+    ✧ - LeetCode 759 [Medium]  -   Daily Temperatures
+
+    ✧ - LeetCode 853 [Medium]  -   Car Fleet
+
+    ✧ - LeetCode 84  [Hard]    -   Largest Rectangle in Histogram
