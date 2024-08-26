@@ -7,11 +7,11 @@ def two_sum_1(numbers, target):
 
     while l < r: 
 
-        sum = numbers[r] + numbers[l]
+        sum_ = numbers[r] + numbers[l]
 
-        if sum > target:
+        if sum_ > target:
             r -= 1 
-        elif sum < target:
+        elif sum_ < target:
             l += 1 
         else:
             return [l + 1, r + 1]
