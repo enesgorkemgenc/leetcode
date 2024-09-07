@@ -49,10 +49,8 @@ I'm following NeetCode's roadmap, which proceeds field by field.
 
     ✦ - LeetCode 150 [Medium]  -   Evaluate Reverse Polish Notation
     
-    ✧ - LeetCode 22  [Medium]  -   Generate Parentheses
-    
-    ✧ - LeetCode 759 [Medium]  -   Daily Temperatures
+    ✦ - LeetCode 739 [Medium]  -   Daily Temperatures
 
-    ✧ - LeetCode 853 [Medium]  -   Car Fleet
+    ✦ - LeetCode 853 [Medium]  -   Car Fleet
 
     ✧ - LeetCode 84  [Hard]    -   Largest Rectangle in Histogram
