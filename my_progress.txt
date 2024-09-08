@@ -54,3 +54,20 @@ I'm following NeetCode's roadmap, which proceeds field by field.
     ✦ - LeetCode 853 [Medium]  -   Car Fleet
 
     ✧ - LeetCode 84  [Hard]    -   Largest Rectangle in Histogram
+
+
+4 - Binary Search
+
+    ✦ - LeetCode 704 [Easy]    -   Binary Search
+
+    ✦ - LeetCode 74  [Medium]  -   Search a 2D Matrix
+
+    ✦ - LeetCode 875 [Medium]  -   Koko Eating Bananas
+
+    ✧ - LeetCode 153 [Medium]  -   Find Minimum In Rotated Sorted Array
+
+    ✧ - LeetCode 33  [Medium]  -   Search In Rotated Sorted Array
+
+    ✧ - LeetCode 981 [Medium]  -   Time Based Key Value Store
+
+    ✧ - LeetCode 4   [Hard]    -   Median of Two Sorted Arrays
