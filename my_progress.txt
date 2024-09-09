@@ -64,9 +64,9 @@ I'm following NeetCode's roadmap, which proceeds field by field.
 
     ✦ - LeetCode 875 [Medium]  -   Koko Eating Bananas
 
-    ✧ - LeetCode 153 [Medium]  -   Find Minimum In Rotated Sorted Array
+    ✦ - LeetCode 153 [Medium]  -   Find Minimum in Rotated Sorted Array
 
-    ✧ - LeetCode 33  [Medium]  -   Search In Rotated Sorted Array
+    ✦ - LeetCode 33  [Medium]  -   Search In Rotated Sorted Array
 
     ✧ - LeetCode 981 [Medium]  -   Time Based Key Value Store
 

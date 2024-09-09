@@ -1,4 +1,4 @@
-#Leetcode 155 - Min Stack
+#LeetCode 155 - Min Stack
 
 
 class MinStack(object):

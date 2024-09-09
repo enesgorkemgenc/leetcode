@@ -1,4 +1,4 @@
-#Leetcode 167 - Two Sum II - Input Array Is Sorted
+#LeetCode 167 - Two Sum II - Input Array Is Sorted
 
 
 def two_sum_1(numbers, target):

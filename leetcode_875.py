@@ -1,4 +1,4 @@
-#Leetcode 875 - Koko Eating Bananas
+#LeetCode 875 - Koko Eating Bananas
 
 import math
 
