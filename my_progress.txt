@@ -71,3 +71,18 @@ I'm following NeetCode's roadmap, which proceeds field by field.
     ✦ - LeetCode 981 [Medium]  -   Time Based Key Value Store
 
     ✧ - LeetCode 4   [Hard]    -   Median of Two Sorted Arrays
+
+
+5 - Sliding Window
+
+    ✦ - LeetCode 121 [Easy]    -   Best Time to Buy and Sell Stock
+
+    ✧ - LeetCode 3   [Medium]  -   Longest Substring Without Repeating Characters
+
+    ✧ - LeetCode 424 [Medium]  -   Longest Repeating Character Replacement
+
+    ✧ - LeetCode 567 [Medium]  -   Permutation In String
+
+    ✧ - LeetCode 76  [Hard]    -   Minimum Window Substring
+
+    ✧ - LeetCode 239 [Hard]    -   Sliding Window Maximum
