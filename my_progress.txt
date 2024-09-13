@@ -79,7 +79,7 @@ I'm following NeetCode's roadmap, which proceeds field by field.
 
     ✦ - LeetCode 3   [Medium]  -   Longest Substring Without Repeating Characters
 
-    ✧ - LeetCode 424 [Medium]  -   Longest Repeating Character Replacement
+    ✦ - LeetCode 424 [Medium]  -   Longest Repeating Character Replacement
 
     ✧ - LeetCode 567 [Medium]  -   Permutation In String
 
